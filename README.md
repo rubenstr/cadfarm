@@ -1,4 +1,8 @@
 # cadfarm
+Consiste em um projeto exemplo de frontend CRUD de uma propriedade
+Utilizando VueJS e Vuetify
+Consumindo api's provenientes do AdonisJS.
+
 
 ## Project setup
 ```
